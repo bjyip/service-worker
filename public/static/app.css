@@ -1,0 +1,8 @@
+body {
+  background-color: beige;
+}
+.image {
+  display: block;
+  width: 300px;
+  margin: 10px auto;
+}
